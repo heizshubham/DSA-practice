@@ -85,7 +85,7 @@ If you have any questions or suggestions, feel free to reach out!
 
 - **Email**: [heizshubhamp0048@gmail.com]
 - **GitHub**: [Your GitHub Profile Link]
-- **LinkedIn**: [Your LinkedIn Profile Link]
+- **LinkedIn**: [www.linkedin.com/in/shubham-pandey-02852a1b2]
 
 ---
 
