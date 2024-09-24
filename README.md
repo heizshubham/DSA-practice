@@ -44,10 +44,11 @@ Each folder contains solutions to problems along with explanations, where necess
 
 The problems I practice come from various platforms like:
 
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [LeetCode](https://leetcode.com/u/heizshubham04/)
+- [HackerRank](https://www.hackerrank.com/profile/heizshubham)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/heizshubham/?ref=header_profile)
 - [Codeforces](https://codeforces.com/)
+- [Unstop](https://unstop.com/practice/coding)
 
 Feel free to try them yourself!
 
@@ -83,9 +84,10 @@ You can track my daily progress below:
 
 If you have any questions or suggestions, feel free to reach out!
 
-- **Email**: [heizshubhamp0048@gmail.com]
-- **GitHub**: [Your GitHub Profile Link]
-- **LinkedIn**: [www.linkedin.com/in/shubham-pandey-02852a1b2]
+- **Email**: heizshubhamp0048@gmail.com
+- **GitHub**: https://github.com/heizshubham
+- **LinkedIn**: www.linkedin.com/in/shubham-pandey-02852a1b2
+- **Portfolio**: https://shubham-portfolio-plum.vercel.app/
 
 ---
 
