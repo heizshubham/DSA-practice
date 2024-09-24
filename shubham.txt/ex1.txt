@@ -1,0 +1,10 @@
+- **Arrays & Strings**
+- **Linked Lists**
+- **Stacks & Queues**
+- **Recursion**
+- **Binary Trees & Binary Search Trees and other Trees**
+- **Dynamic Programming**
+- **Graphs**
+- **Sorting & Searching**
+- **Hashing**
+- **Backtracking**
