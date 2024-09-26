@@ -75,8 +75,12 @@ You can track my daily progress below:
 | Date       | Problem            | Topic          | Solution Link |
 |------------|--------------------|----------------|---------------|
 | 2024-09-20 | Two Sum            | Arrays & Hashing| [Link](./arrays/two_sum.cpp)  |
-| 2024-09-19 | Merge Intervals     | Sorting & Arrays| [Link](./sorting/merge_intervals.cpp) |
-| ...        | ...                | ...            | ...           |
+| 2024-09-19 | Merge Intervals    | Sorting & Arrays| [Link](./sorting/merge_intervals.cpp) |
+| 2024-09-26 | Find Node in Tree  | AVL Tree        | [Link]( ) |  
+
+| 2024-09-20 | Two Sum            | Arrays & Hashing| [Link](./arrays/two_sum.cpp)  |
+| 2024-09-19 | Merge Intervals    | Sorting & Arrays| [Link](./sorting/merge_intervals.cpp) |
+| 2024-09-26 | Find Node in Tree  | AVL Tree        | [Link]( ) |  
 
 ---
 
