@@ -84,7 +84,7 @@ You can track my daily progress below:
 
 ---
 
-## 💼 Contact
+## 💼 Contact..
 
 If you have any questions or suggestions, feel free to reach out!
 
