@@ -92,6 +92,7 @@ If you have any questions or suggestions, feel free to reach out!
 - **GitHub**: https://github.com/heizshubham
 - **LinkedIn**: www.linkedin.com/in/shubham-pandey-02852a1b2
 - **Portfolio**: https://shubham-portfolio-plum.vercel.app/
+- **Instagram**: 
 
 ---
 
